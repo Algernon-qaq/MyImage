@@ -1,1 +1,1 @@
-# MyJupyterImage
+# MyImage
